@@ -28,6 +28,7 @@ main {
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, min-content);
     grid-gap: 20px;
+    max-width: 1150px;
 }
 .card {
     display: flex;
